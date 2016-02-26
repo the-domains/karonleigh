@@ -1,0 +1,28 @@
+name: KaronLeigh
+favicon: null
+layout_spectrum: 0.986357809510082
+typography_spectrum: 0.6721908280160278
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.023372982861474156
+  lightness: 0.06674569402821362
+  saturation: 0.58205501222983
+  rhythmicContrast: 0.7544598116073757
+purpose: []
